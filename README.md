@@ -6,14 +6,14 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
 # Final Model and complete code:
 ts-forecasting(1).pynb
 
-#Code Snippet  : other python notebooks
+# Code Snippet  : other python notebooks
 
-#Data  Description:
+# Data  Description:
 You are provided with daily historical sales data. 
 The task is to forecast the total amount of products sold in every shop for the test set. 
 Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.
 
-#File descriptions:
+# File descriptions:
 
 sales_train.csv - the training set. Daily historical data from January 2013 to October 2015.
 
@@ -27,7 +27,7 @@ item_categories.csv  - supplemental information about the items categories.
 
 shops.csv- supplemental information about the shops.
 
-#Data fields
+# Data fields
 
 ID - an Id that represents a (Shop, Item) tuple within the test set
 
